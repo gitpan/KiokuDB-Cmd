@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               KiokuDB-Cmd
-version:            0.01
+version:            0.02
 abstract:           ~
 author:  []
 license:            unknown
@@ -11,7 +11,7 @@ build_requires:
     ExtUtils::MakeMaker:  0
 requires:
     App::Cmd:             0.202
-    KiokuDB:              0.29
+    KiokuDB:              0.31
     MooseX::App::Cmd:     0
     MooseX::Getopt:       0
     MooseX::Types::Path::Class:  0
